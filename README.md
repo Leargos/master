@@ -1,8 +1,11 @@
 # master
 
-W tym pliku będziemy przypisywać zadania.
+This file will contain tasks assigned by Czarek
 
-Zadanie:
+Each task will be assigne to Kamil or Dawid.
 
-Budujemy system rezerwacyjny. W pierwszej części skupiamy się na tym by klient mógł zarezerwować sobie zabieg.
-System powinien kontrolować czy dany termin, sala oraz masażystka są wolne.
+Current task:
+
+We are to create a reservation system for a Spa salon. A client should be able to make an reservation with
+a masseuse. To accomplish this task we need a set of rooms (let's begin with one) and some employees. We need
+one receptionist and masseuse. Each reservation should be put in a calendar.
