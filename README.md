@@ -12,7 +12,6 @@ one receptionist and masseuse. Each reservation should be put in a calendar.
 
 ### Subtasks
 
-- [ ] Set DB - D
-- [ ] Render methods for each display - K
-- [ ] SQL queries - D
-- [ ] MENU - K
+- [ ] Jakakolwiek funkcjonalność, renderowanie czegokolwiek bez funkcjonalonosći jest troche bez sensu, jakie funkcjonalności to sie podzielcie
+- [ ] Bez bazdy danych, wyabstraktować komunikacje przez interfejsy
+- [ ] TESTY TESTY TESTY (co to jest fake, dummy, stub i mock)
