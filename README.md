@@ -16,4 +16,4 @@ one receptionist and masseuse. Each reservation should be put in a calendar.
 - [ ] Jakakolwiek funkcjonalność, renderowanie czegokolwiek bez funkcjonalonosći jest troche bez sensu, jakie funkcjonalności to sie podzielcie
 - [ ] Bez bazdy danych, wyabstraktować komunikacje przez interfejsy
 - [ ] TESTY TESTY TESTY (co to jest fake, dummy, stub i mock)
->>>>>>> f9c35bc12a82fbb8742a98233614fc4a97b96050
+
