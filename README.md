@@ -10,10 +10,10 @@ We are to create a reservation system for a Spa salon. A client should be able t
 a masseuse. To accomplish this task we need a set of rooms (let's begin with one) and some employees. We need
 one receptionist and masseuse. Each reservation should be put in a calendar.
 
-
 ### Subtasks
 
 - [ ] Jakakolwiek funkcjonalność, renderowanie czegokolwiek bez funkcjonalonosći jest troche bez sensu, jakie funkcjonalności to sie podzielcie
 - [ ] Bez bazdy danych, wyabstraktować komunikacje przez interfejsy
 - [ ] TESTY TESTY TESTY (co to jest fake, dummy, stub i mock)
+
 
