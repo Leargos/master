@@ -11,4 +11,4 @@ a masseuse. To accomplish this task we need a set of rooms (let's begin with one
 one receptionist and masseuse. Each reservation should be put in a calendar.
 
 
-These are some changes made to readme file
+These are some changes made on master branch
